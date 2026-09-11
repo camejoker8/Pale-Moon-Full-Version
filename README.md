@@ -248,4 +248,4 @@ This repository serves as the official landing page for Pale Moon. The software 
 **Get the most recent version of Pale Moon today!**
 
 ---
-**Last updated:** 2026-09-11 04:08:42 UTC
+**Last updated:** 2026-09-11 09:27:51 UTC
